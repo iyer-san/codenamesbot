@@ -12,11 +12,11 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
-DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
+NAME = 'codenamesbot'
+DESCRIPTION = 'Codegiving accompaniment in Codenames.'
+URL = 'https://github.com/iyer-san/codenamesbot'
 EMAIL = 'mails2santosh@gmail.com'
-AUTHOR = 'Awesome Soul'
+AUTHOR = 'Santosh Iyer'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = '0.1.0'
 

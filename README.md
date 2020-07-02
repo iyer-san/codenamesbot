@@ -17,6 +17,7 @@ Codegiver AI accompaniment for https://codenames.playgamesonline.app
 	- Add bot as player to team - Bot becomes Codegiver
 
     - Add bot as player to team - Bot becomes guesser
+- - -
 
 To Do
 -----
